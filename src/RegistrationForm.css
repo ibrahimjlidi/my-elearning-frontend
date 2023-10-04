@@ -1,0 +1,52 @@
+/* RegistrationForm.css
+
+.registration-container {
+  display: flex;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.image-container {
+  flex: 1;
+  background: url('https://media.istockphoto.com/id/1317983119/vector/vector-illustration-register-now-speech-bubble-label-internet-notification-register-now-sign.jpg?s=612x612&w=0&k=20&c=Nvja3xjFvD4NXlXis7un2B2vscvdTxKQL24t21v0NrA=') center/cover no-repeat;
+}
+
+.registration-form {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+} */
