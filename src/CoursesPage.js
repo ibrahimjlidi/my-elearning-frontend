@@ -9,7 +9,7 @@
 //     description: 'Learn the basics of ReactJS.',
 //     instructor: 'John Doe',
 //   },
-//   {
+//   {   
 //     id: 2,
 //     title: 'JavaScript Fundamentals',
 //     description: 'Master JavaScript from scratch.',
