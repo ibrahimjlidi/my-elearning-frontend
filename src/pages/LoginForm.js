@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import apiService from './apiService';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate instead of useHistory
-import './LoginForm.css'; // Import your CSS file for styling
+import '../css/LoginForm.css'; // Import your CSS file for styling
 
 function LoginForm() {
   const navigate = useNavigate(); // Use useNavigate hook instead of useHistory

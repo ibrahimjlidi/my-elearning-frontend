@@ -26,7 +26,7 @@
 // export default CourseDetailsPage;
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import apiService from './apiService';
+import apiService from './pages/apiService';
 
 function CourseDetailsPage() {
   const { id } = useParams();

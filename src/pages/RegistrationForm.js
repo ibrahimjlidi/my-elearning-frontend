@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import apiService from './apiService';
-import './RegistrationForm.css'; // Import your CSS file for styling
+import '../css/RegistrationForm.css'; // Import your CSS file for styling
 
 function RegistrationForm() {
   const [formData, setFormData] = useState({
